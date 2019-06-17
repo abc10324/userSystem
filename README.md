@@ -55,7 +55,7 @@
 
  2.在此路徑找到**startup.bat**並執行：[Tomcat安裝路徑]\apache-tomcat-9.0.12\bin
 
->###操作指示
+>### 操作指示
 
 * API開放端點
  * URL : **/user/api** POST
